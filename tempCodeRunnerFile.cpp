@@ -1,0 +1,1 @@
+ << resetiosflags(ios::left) 
