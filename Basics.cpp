@@ -11,3 +11,5 @@ int main(){
     ofstream print(ofstream);
     out2 = print(out2);
 }
+
+const tray= [a,b,c];
